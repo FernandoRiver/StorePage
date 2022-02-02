@@ -1,3 +1,4 @@
-/login
-/productos
-/producto
+[[redirects]]
+    from = "/"
+    to = "/productos"
+    status = 200
